@@ -1,6 +1,6 @@
 {
   "name": "@gospime/express-morgan",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "HTTP request logger middleware for koa",
   "keywords": [
     "gospime",
